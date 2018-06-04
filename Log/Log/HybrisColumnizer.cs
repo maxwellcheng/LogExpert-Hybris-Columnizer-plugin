@@ -27,17 +27,17 @@ namespace LogExpert
 
         public int GetColumnCount()
         {
-            return 5;
+            return 6;
         }
 
         public string[] GetColumnNames()
         {
-            return new string[] { "Log Level", "JVM", "   ", "Date/Time", "Message" };
+            return new string[] { "Log Level", "JVM", "   ", "Date","Time", "Message" };
         }
 
         public string[] SplitLine(ILogLineColumnizerCallback callback, string line)
         {
-            string[] cols = new string[5] { "", "", "", "", "" };
+            string[] cols = new string[6] { "", "", "", "", "","" };
             if (line.Length > 1024)
             {
                 // spam
@@ -72,8 +72,10 @@ namespace LogExpert
                     cols[0] = res[0];
                     cols[1] = res[1];
                     cols[2] = res[2];
-                    cols[3] = res[3];
-                    cols[4] = res[4];
+                    String[] dateTime= Regex.Split(res[3], "\\s");
+                    cols[3] = dateTime[1];
+                    cols[4] = dateTime[2];
+                    cols[5] = res[4];
                 }
                 else
                 {

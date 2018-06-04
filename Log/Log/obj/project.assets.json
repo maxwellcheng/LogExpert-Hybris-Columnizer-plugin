@@ -183,11 +183,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\M1_51\\source\\repos\\Log\\Log\\Log.csproj",
+      "projectUniqueName": "C:\\Users\\M1_51\\Documents\\GitHub\\LogExpert-Hybris-Columnizer-plugin\\Log\\Log\\Log.csproj",
       "projectName": "Log",
-      "projectPath": "C:\\Users\\M1_51\\source\\repos\\Log\\Log\\Log.csproj",
+      "projectPath": "C:\\Users\\M1_51\\Documents\\GitHub\\LogExpert-Hybris-Columnizer-plugin\\Log\\Log\\Log.csproj",
       "packagesPath": "C:\\Users\\M1_51\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\M1_51\\source\\repos\\Log\\Log\\obj\\",
+      "outputPath": "C:\\Users\\M1_51\\Documents\\GitHub\\LogExpert-Hybris-Columnizer-plugin\\Log\\Log\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

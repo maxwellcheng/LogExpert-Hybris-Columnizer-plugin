@@ -5,7 +5,7 @@ VisualStudioVersion = 15.0.27703.2000
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Log", "Log\Log.csproj", "{E98F8310-D253-4AA0-9D83-E6A7E52AABB6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp1", "ConsoleApp1\ConsoleApp1.csproj", "{6865C44C-C95A-4167-AA3A-D2D4DE58CB16}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp2", "ConsoleApp2\ConsoleApp2.csproj", "{43C4BA82-FF68-41EF-9B2B-5FF4E0303F5D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -17,10 +17,10 @@ Global
 		{E98F8310-D253-4AA0-9D83-E6A7E52AABB6}.Debug|Any CPU.Build.0 = Release|Any CPU
 		{E98F8310-D253-4AA0-9D83-E6A7E52AABB6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E98F8310-D253-4AA0-9D83-E6A7E52AABB6}.Release|Any CPU.Build.0 = Release|Any CPU
-		{6865C44C-C95A-4167-AA3A-D2D4DE58CB16}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{6865C44C-C95A-4167-AA3A-D2D4DE58CB16}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{6865C44C-C95A-4167-AA3A-D2D4DE58CB16}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{6865C44C-C95A-4167-AA3A-D2D4DE58CB16}.Release|Any CPU.Build.0 = Release|Any CPU
+		{43C4BA82-FF68-41EF-9B2B-5FF4E0303F5D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{43C4BA82-FF68-41EF-9B2B-5FF4E0303F5D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{43C4BA82-FF68-41EF-9B2B-5FF4E0303F5D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{43C4BA82-FF68-41EF-9B2B-5FF4E0303F5D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

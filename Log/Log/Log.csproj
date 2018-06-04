@@ -15,7 +15,7 @@
 
   <ItemGroup>
     <Reference Include="ColumnizerLib">
-      <HintPath>..\..\..\..\Downloads\program installed\LogExpert-1.6.10\LogExpert\ColumnizerLib.dll</HintPath>
+      <HintPath>..\ConsoleApp1\bin\Debug\netcoreapp2.0\ColumnizerLib.dll</HintPath>
     </Reference>
   </ItemGroup>
 

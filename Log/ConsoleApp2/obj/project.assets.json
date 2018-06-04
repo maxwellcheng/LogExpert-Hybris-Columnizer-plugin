@@ -686,11 +686,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\M1_51\\Documents\\GitHub\\LogExpert-Hybris-Columnizer-plugin\\Log\\ConsoleApp1\\ConsoleApp1.csproj",
-      "projectName": "ConsoleApp1",
-      "projectPath": "C:\\Users\\M1_51\\Documents\\GitHub\\LogExpert-Hybris-Columnizer-plugin\\Log\\ConsoleApp1\\ConsoleApp1.csproj",
+      "projectUniqueName": "C:\\Users\\M1_51\\Documents\\GitHub\\LogExpert-Hybris-Columnizer-plugin\\Log\\ConsoleApp2\\ConsoleApp2.csproj",
+      "projectName": "ConsoleApp2",
+      "projectPath": "C:\\Users\\M1_51\\Documents\\GitHub\\LogExpert-Hybris-Columnizer-plugin\\Log\\ConsoleApp2\\ConsoleApp2.csproj",
       "packagesPath": "C:\\Users\\M1_51\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\M1_51\\Documents\\GitHub\\LogExpert-Hybris-Columnizer-plugin\\Log\\ConsoleApp1\\obj\\",
+      "outputPath": "C:\\Users\\M1_51\\Documents\\GitHub\\LogExpert-Hybris-Columnizer-plugin\\Log\\ConsoleApp2\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
